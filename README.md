@@ -1,3 +1,5 @@
+![Banner](/profile/banner.webp) <!-- 顶部横幅 -->
+
 # 🌍 **We are Fuji Scripting**
 
 Our global team of developers is dedicated to creating powerful, open-source scripts for Rise Client, designed to enhance your experience and unlock new possibilities! 🌟✨  
@@ -13,8 +15,10 @@ Our global team of developers is dedicated to creating powerful, open-source scr
 
 ## 💬 **Contact Us**  
 - 📬 **Support Email**: Reach out to us at [support@fujiscript.com](mailto:support@fujiscript.com) for any questions or assistance.  
-- 💬 **Discord**: Contact **Leo728** directly at `Discord@leo728`,
+- 💬 **Discord**: Contact **Leo728** directly at `Discord@leo728`.
 
 ---
 
 Let’s make our own dream client together! 🚀
+
+![Banner](/profile/banner.webp) <!-- 底部横幅 -->
