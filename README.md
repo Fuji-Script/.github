@@ -1,6 +1,6 @@
 ![Banner](/profile/b.webp)
 
-# 🌍 **We are Fuji Scripting**
+# 🌍 **We are Fuji Script**
 
 Our global team of developers is dedicated to creating powerful, open-source scripts for Rise Client, designed to enhance your experience and unlock new possibilities! 🌟✨  
 
