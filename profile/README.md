@@ -1,4 +1,4 @@
-![Banner](1.webp)
+![Banner](a.webp)
 
 # 🌍 **We are Fuji Scripting**
 
