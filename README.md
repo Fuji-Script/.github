@@ -1,4 +1,4 @@
-![Banner](/profile/banner.webp) <!-- 顶部横幅 -->
+![Banner](/profile/banner.webp)
 
 # 🌍 **We are Fuji Scripting**
 
@@ -20,5 +20,3 @@ Our global team of developers is dedicated to creating powerful, open-source scr
 ---
 
 Let’s make our own dream client together! 🚀
-
-![Banner](/profile/banner.webp) <!-- 底部横幅 -->
