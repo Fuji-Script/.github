@@ -1,4 +1,4 @@
-![Banner](/profile/1.webp)
+![Banner](/profile/a.webp)
 
 # 🌍 **We are Fuji Scripting**
 
