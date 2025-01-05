@@ -1,11 +1,11 @@
-# 🌍 **We are Fuji Script**
+# 🌍 **We are Fuji Scripting**
 
 Our global team of developers is dedicated to creating powerful, open-source scripts for Rise Client, designed to enhance your experience and unlock new possibilities! 🌟✨  
 
 ---
 
 ## 📜 **Usage Policy**  
-- **Open Source & Free to Use**: Fuji Script is open-source and free for everyone to use, modify, and distribute.  
+- **Open Source & Free to Use**: Fuji Scripts is open-source and free for everyone to use, modify, and distribute.  
 - **Customization**: Feel free to adapt the scripts to suit your needs.  
 - **Share the Love**: If you improve our scripts, we encourage you to share your changes with the community!  
 
