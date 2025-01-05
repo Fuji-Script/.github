@@ -1,4 +1,4 @@
-# 🌍 **We are Fuji Script**
+# 🌍 **We are Fuji Scripting**
 
 Our global team of developers is dedicated to creating powerful, open-source scripts for Rise Client, designed to enhance your experience and unlock new possibilities! 🌟✨  
 
